@@ -1,2 +1,2 @@
 # AITest
-Let's have fun With Mister AI
+Let's have fun with Mister AI.
